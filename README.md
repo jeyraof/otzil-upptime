@@ -1,4 +1,4 @@
-# [![Upptime](./assets/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://status.otzil.com): <!--live status--> **🟩 All systems operational**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,12 +8,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Otzil](https://otzil.com) | 🟩 Up | [otzil.yml](https://github.com/jeyraof/otzil-upptime/commits/master/history/otzil.yml) | <img alt="Response time graph" src="./graphs/otzil.png" height="20"> 1109ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjeyraof%2Fotzil-upptime%2Fmaster%2Fapi%2Fotzil%2Fuptime.json)
+| [Otzil](https://otzil.com) | 🟩 Up | [otzil.yml](https://github.com/jeyraof/otzil-upptime/commits/master/history/otzil.yml) | <img alt="Response time graph" src="./graphs/otzil.png" height="20"> 1138ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjeyraof%2Fotzil-upptime%2Fmaster%2Fapi%2Fotzil%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
@@ -328,7 +327,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [Jaeyoung Lee](https://monodiary.net/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
