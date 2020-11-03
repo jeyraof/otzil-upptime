@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.otzil.com): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.otzil.com): <!--live status--> **🟥 Complete outage**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,11 +8,12 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [Otzil](https://otzil.com) | 🟩 Up | [otzil.yml](https://github.com/jeyraof/otzil-upptime/commits/master/history/otzil.yml) | <img alt="Response time graph" src="./graphs/otzil.png" height="20"> 1112ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjeyraof%2Fotzil-upptime%2Fmaster%2Fapi%2Fotzil%2Fuptime.json)
+
+| URL                        | Status  | History                                                                                | Response Time                                                              | Uptime                                                                                                                                                        |
+| -------------------------- | ------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Otzil](https://otzil.com) | 🟥 Down | [otzil.yml](https://github.com/jeyraof/otzil-upptime/commits/master/history/otzil.yml) | <img alt="Response time graph" src="./graphs/otzil.png" height="20"> 973ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjeyraof%2Fotzil-upptime%2Fmaster%2Fapi%2Fotzil%2Fuptime.json) |
+
 <!--end: status pages-->
 
 ## ⭐ How it works
