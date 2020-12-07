@@ -2,6 +2,7 @@
   {
     "name": "Otzil",
     "url": "https://otzil.com",
+    "icon": "https://favicons.githubusercontent.com/otzil.com",
     "slug": "otzil",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 1250,
-    "timeWeek": 1012,
-    "timeMonth": 1063,
-    "timeYear": 1061
+    "time": 1060,
+    "timeDay": 1054,
+    "timeWeek": 1041,
+    "timeMonth": 1069,
+    "timeYear": 1060,
+    "dailyMinutesDown": {}
   }
 ]
