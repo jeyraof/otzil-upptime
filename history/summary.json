@@ -4,17 +4,17 @@
     "url": "https://otzil.com",
     "icon": "https://favicons.githubusercontent.com/otzil.com",
     "slug": "otzil",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1232,
-    "timeWeek": 1224,
-    "timeMonth": 1204,
-    "timeYear": 1127,
+    "time": 1125,
+    "timeDay": 1017,
+    "timeWeek": 1171,
+    "timeMonth": 1190,
+    "timeYear": 1125,
     "dailyMinutesDown": {}
   }
 ]
